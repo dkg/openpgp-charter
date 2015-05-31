@@ -22,6 +22,10 @@ Security Area Advisor:
 Description of Working Group
 ----------------------------
 
+OpenPGP is an Internet standard that covers object encryption, object
+signing, and identity certification.  These were defined by the first
+incarnation of the OpenPGP working group.
+
 The following is an excerpt from the charter of the original
 incarnation of the openpgp working group
 
