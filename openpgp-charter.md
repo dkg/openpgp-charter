@@ -10,7 +10,7 @@ Chairs:
 
 Security Area Directors:
      Stephen Farrell <stephen.farrell@cs.tcd.ie>
-     ​Kathleen Moriarty <Kathleen.Moriarty.ietf@gmail.com>
+     Kathleen Moriarty <Kathleen.Moriarty.ietf@gmail.com>
 
 Security Area Advisor:
      Stephen Farrell <stephen.farrell@cs.tcd.ie>
