@@ -44,6 +44,16 @@ produce a revision of RFC4880 to address issues that have been
 identified by the community since the working group was originally
 closed.
 
+Some of the revisions might include, but are not limited to:
+
+* inclusion of the CFRG elliptic curves
+
+* proper AEAD symmetric crypto
+
+* updated mandatory-to-implement algorithms
+
+* updated fingerprints
+
 The Working Group will perform the following work
 -------------------------------------------------
 
@@ -51,10 +61,14 @@ Revise RFC4880
 
 Other work may be entertained by the working group as long as it does
 not interfere with the completion of the RFC4880 revision.  As the
-revision of RFC4880 is primary goal of the working group, and other
-work will also not unduly delay the closure of the working group
-after the revision is finished (unless the working group is
-rechartered).
+revision of RFC4880 is the primary goal of the working group, other
+work may be undertaken, so long as:
+
+1. Will not unduly delay the closure of the working group
+   after the revision is finished (unless the working group is
+   rechartered).
+
+2. Has widespread support in the working group.
 
 Working Group Process
 ---------------------
@@ -71,4 +85,9 @@ of the ID as part of the acceptance process.
 Goals and Milestones
 --------------------
 
-July 2016: Deliver an RFC 4880bis WG ID to the RFC editor
+1. September 2016: Working Group (rough) consensus on the necessary
+   updates to RFC4880.
+
+2. February 2016: First wg-id for RFC4880bis.
+
+3. July 2016: RFC4880bis wg-id final call.
