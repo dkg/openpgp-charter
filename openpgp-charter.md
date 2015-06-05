@@ -44,15 +44,18 @@ produce a revision of RFC4880 to address issues that have been
 identified by the community since the working group was originally
 closed.
 
-Some of the revisions might include, but are not limited to:
+These revisions will include, but are not limited to:
 
-* inclusion of the CFRG elliptic curves
+* Potential inclusion of elliptic curves recommended by the CFRG (see
+  note below) 
 
-* proper AEAD symmetric crypto
+* A symmetric encryption mechanism that offers modern message
+  integrity protection (e.g. AEAD)
 
-* updated mandatory-to-implement algorithms
+* Revision of mandatory-to-implement algorithm selection and
+  deprecation of weak algorithms
 
-* updated fingerprints
+* An updated public-key fingerprint mechanism
 
 The Working Group will perform the following work
 -------------------------------------------------
@@ -69,6 +72,13 @@ work may be undertaken, so long as:
    rechartered).
 
 2. Has widespread support in the working group.
+
+Inclusion of CFRG Curves
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Working Group will consider CFRG curves as possible Mandatory to
+Implement (MTI) based on the output of the CFRG and/or Working Group
+consensus in the matter.
 
 Working Group Process
 ---------------------
