@@ -73,8 +73,7 @@ work may be undertaken, so long as:
 
 2. Has widespread support in the working group.
 
-Inclusion of CFRG Curves
-~~~~~~~~~~~~~~~~~~~~~~~~
+### Inclusion of CFRG Curves ###
 
 The Working Group will consider CFRG curves as possible Mandatory to
 Implement (MTI) based on the output of the CFRG and/or Working Group
