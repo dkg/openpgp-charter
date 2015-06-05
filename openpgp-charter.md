@@ -94,7 +94,7 @@ of the ID as part of the acceptance process.
 Goals and Milestones
 --------------------
 
-1. September 2016: Working Group (rough) consensus on the necessary
+1. September 2015: Working Group (rough) consensus on the necessary
    updates to RFC4880.
 
 2. February 2016: First wg-id for RFC4880bis.
