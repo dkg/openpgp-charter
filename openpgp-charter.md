@@ -15,7 +15,7 @@ Security Area Directors:
 Security Area Advisor:
 * Stephen Farrell <stephen.farrell@cs.tcd.ie>
 
- Mailing Lists:
+Mailing Lists:
 * To Subscribe:       https://www.ietf.org/mailman/listinfo/openpgp
 * Archive:            http://www.ietf.org/mail-archive/web/openpgp/
 
