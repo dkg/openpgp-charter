@@ -1,27 +1,3 @@
-An Open Specification for Pretty Good Privacy (openpgp)
-=======================================================
-
-Charter
--------
-
-Chairs:
-* Christopher Liljenstolpe <ietf@cdl.asgaard.org>
-* Daniel Kahn Gillmor <dkg@fifthhorseman.net>
-
-Security Area Directors:
-* Stephen Farrell <stephen.farrell@cs.tcd.ie>
-* Kathleen Moriarty <Kathleen.Moriarty.ietf@gmail.com>
-
-Security Area Advisor:
-* Stephen Farrell <stephen.farrell@cs.tcd.ie>
-
-Mailing Lists:
-* To Subscribe:       https://www.ietf.org/mailman/listinfo/openpgp
-* Archive:            http://www.ietf.org/mail-archive/web/openpgp/
-
-Description of Working Group
-----------------------------
-
 OpenPGP is an Internet standard that covers object encryption, object
 signing, and identity certification.  These were defined by the first
 incarnation of the OpenPGP working group.
