@@ -67,7 +67,7 @@ not interfere with the completion of the RFC4880 revision.  As the
 revision of RFC4880 is the primary goal of the working group, other
 work may be undertaken, so long as:
 
-1. The work is directly related to OpenPGP.  
+1. The work is directly related to OpenPGP.
 
 2. Will not unduly delay the closure of the working group
    after the revision is finished (unless the working group is
