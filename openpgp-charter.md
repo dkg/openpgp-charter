@@ -34,15 +34,15 @@ The Working Group will perform the following work:
 
 - Revise RFC4880
 
-- Other work may be entertained by the working group as long as it does
-not interfere with the completion of the RFC4880 revision. As the revision
-of RFC4880 is the primary goal of the working group, other work may be
+- Other work related to OpenPGP may be entertained by the working group as long
+as it does not interfere with the completion of the RFC4880 revision. As the
+revision of RFC4880 is the primary goal of the working group, other work may be
 undertaken, so long as:
 
-1. Will not unduly delay the closure of the working group after the
+1. The work will not unduly delay the closure of the working group after the
 revision is finished (unless the working group is rechartered).
 
-2. as widespread support in the working group.
+2. The work has widespread support in the working group.
 
 Inclusion of CFRG Curves
 -----------------------------
