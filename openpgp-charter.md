@@ -5,19 +5,19 @@ Charter
 -------
 
 Chairs:
-     Christopher Liljenstolpe <ietf@cdl.asgaard.org>
-     Daniel Kahn Gillmor <dkg@fifthhorseman.net>
+* Christopher Liljenstolpe <ietf@cdl.asgaard.org>
+* Daniel Kahn Gillmor <dkg@fifthhorseman.net>
 
 Security Area Directors:
-     Stephen Farrell <stephen.farrell@cs.tcd.ie>
-     Kathleen Moriarty <Kathleen.Moriarty.ietf@gmail.com>
+* Stephen Farrell <stephen.farrell@cs.tcd.ie>
+* Kathleen Moriarty <Kathleen.Moriarty.ietf@gmail.com>
 
 Security Area Advisor:
-     Stephen Farrell <stephen.farrell@cs.tcd.ie>
+* Stephen Farrell <stephen.farrell@cs.tcd.ie>
 
  Mailing Lists:
-     To Subscribe:       https://www.ietf.org/mailman/listinfo/openpgp
-     Archive:            http://www.ietf.org/mail-archive/web/openpgp/
+* To Subscribe:       https://www.ietf.org/mailman/listinfo/openpgp
+* Archive:            http://www.ietf.org/mail-archive/web/openpgp/
 
 Description of Working Group
 ----------------------------
@@ -67,7 +67,7 @@ not interfere with the completion of the RFC4880 revision.  As the
 revision of RFC4880 is the primary goal of the working group, other
 work may be undertaken, so long as:
 
-1. The work is directly related to OpenPGP.
+1. The work is directly related to OpenPGP.  
 
 2. Will not unduly delay the closure of the working group
    after the revision is finished (unless the working group is
